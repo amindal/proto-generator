@@ -1,6 +1,6 @@
 module github.com/amindal/proto-generator
 
-go 1.22.3
+go 1.22.2
 
 require (
 	github.com/emicklei/proto v1.13.2
