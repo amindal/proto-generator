@@ -1,0 +1,8 @@
+.idea
+vendor
+*.exe
+main
+*.iso
+*.log
+*.DS_Store
+*_gen.go
